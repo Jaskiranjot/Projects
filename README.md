@@ -12,6 +12,6 @@ Tasks accomplished:
 7. image
 8. to_mail
 9. mouseover
-10. navigation to certain part of page
+10. anchor
 
 Languages used: HTML/CSS/JavaScript
